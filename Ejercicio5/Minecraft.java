@@ -1,5 +1,6 @@
 package Tar2;
 import java.util.Scanner;
+// Estudiante: Victor Yhamil Gutierrez Acarapi
 public class Minecraft {
 	private String jugador;
 	private int diamante;
@@ -76,3 +77,4 @@ public class Minecraft {
 		System.gc();
 	}
 }
+
