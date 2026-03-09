@@ -1,5 +1,6 @@
 package Tar2;
 import java.util.Scanner;
+// Estudiante: Victor Yhamil Gutierrez Acarapi
 public class Bus {
 	private String nombre;
 	public Bus() {
@@ -42,3 +43,4 @@ public class Bus {
 		System.gc();
 	}
 }
+
